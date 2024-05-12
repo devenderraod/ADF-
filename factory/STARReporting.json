@@ -1,0 +1,9 @@
+{
+	"name": "STARReporting",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "97dd477c-5495-47df-be77-6e409d6109bc",
+		"tenantId": "327ee6f8-64f0-4f70-99c4-d95e2d94cef8"
+	}
+}

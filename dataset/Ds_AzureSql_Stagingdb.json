@@ -1,0 +1,17 @@
+{
+	"name": "Ds_AzureSql_Stagingdb",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Ls_Azuresql",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "LookupRefrenceatble"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
